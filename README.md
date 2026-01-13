@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Precious Adeniran
+# Hi there 👋, I'm Adeniran Precious Adebayo
 
 Welcome to my GitHub profile!  
 I'm an **Embedded Systems Engineer** with a passion for Robotics, IoT, and Automation.
