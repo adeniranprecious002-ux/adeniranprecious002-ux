@@ -17,6 +17,6 @@ I'm an **Embedded Systems Engineer** with a passion for Robotics, IoT, and Autom
 - AI for Mechatronics
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
-- [Instagram](https://instagram.com/yourprofile)
+- [LinkedIn](https://linkedin.com/in/precious-adeniran-842b58294)
+- [Twitter](https://x.com/Steven4pera)
+- [Instagram](https://instagram.com/preciousade_002)
