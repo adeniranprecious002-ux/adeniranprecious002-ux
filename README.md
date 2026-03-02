@@ -8,12 +8,12 @@ I'm an **Embedded Systems Engineer** with a passion for Robotics, IoT, and AI Au
 - 💻 Skilled in C++, Python, Embedded C, and MATLAB
 - 🛠️ Experienced in IoT and Embedded Systems Development
 
-## 🤖 AI Automation
-- 🧠 Building intelligent automation pipelines that integrate AI/ML models with embedded and IoT systems
-- ⚙️ Developing autonomous workflows using Python and LLM-based tools for real-time decision-making
-- 🔗 Connecting edge devices to AI backends for smart sensing, control, and predictive analytics
-- 📡 Exploring AI-driven robotics: perception, planning, and actuation using computer vision and reinforcement learning
-- 🛠️ Tools & Frameworks: TensorFlow Lite, OpenCV, ROS, MQTT, REST APIs, and prompt engineering
+## 🤖 AI Automation (Low-Code Platforms)
+- 🔧 Building intelligent automation workflows using low-code/no-code platforms
+- 🔄 Designing multi-step AI pipelines with tools like **Make (Integromat)**, **Zapier**, and **n8n**
+- 🧠 Integrating AI agents and LLMs (e.g. ChatGPT, Claude) into automated business and engineering workflows
+- 📊 Connecting apps, APIs, and data sources without heavy coding using platforms like **Bubble**, **FlutterFlow**, and **Airtable**
+- 📡 Automating IoT data flows and notifications using low-code tools bridging sensors and cloud services
 
 ## 🌱 Interests
 - Robotics and Automation
