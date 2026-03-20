@@ -48,33 +48,39 @@ My focus is on developing:
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Resume Screener
+### 🔹 AI Resume Screener (HireIQ)
 
-* Built an AI-powered system that analyzes resumes and ranks candidates
-* Uses LLMs for intelligent decision-making
-* Automates recruitment workflows
+🔗 https://github.com/adeniranprecious002-ux/hireiq-smart-candidate-screening
 
-👉 *Tech:* Python, APIs, AI Models
+* Built an AI-powered system that analyzes and ranks job candidates automatically
+* Uses LLMs to evaluate resumes based on job requirements
+* Reduces manual recruitment effort and improves decision-making
 
----
-
-### 🔹 IoT Smart Monitoring System
-
-* Designed a system for collecting real-time sensor data
-* Sends alerts and triggers automated actions
-* Integrates cloud + embedded hardware
-
-👉 *Tech:* Arduino, IoT, APIs
+👉 **Tech:** Python, OpenAI API, Automation Workflows
 
 ---
 
-### 🔹 AI Automation Workflows
+### 🔹 Speed Measurement System for Road Safety
 
-* Built multi-step automation pipelines for businesses
-* Connected apps, APIs, and AI models
-* Reduced manual work through intelligent workflows
+🔗 https://github.com/adeniranprecious002-ux/SPEED_MEASUREMENT_SYSTEM_FOR_ROAD_SAFETY_PERSONNEL
 
-👉 *Tools:* Make, Zapier, n8n
+* Designed an embedded system to measure vehicle speed for road safety enforcement
+* Integrates sensors and microcontrollers for real-time data processing
+* Can be used by traffic personnel for monitoring and control
+
+👉 **Tech:** Embedded C, Microcontrollers, Sensors
+
+---
+
+### 🔹 Python Embedded Data Logger
+
+🔗 https://github.com/adeniranprecious002-ux/python_embedded_data_logger
+
+* Developed a system to log and store sensor data for analysis
+* Enables real-time data acquisition from embedded devices
+* Useful for IoT monitoring and system diagnostics
+
+👉 **Tech:** Python, Embedded Systems, Data Logging
 
 ---
 
