@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/precious-adeniran-842b58294"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@adeniranprecious002"><img src="https://cdn.simpleicons.org/medium/050A18" width="35" height="35" alt="Medium"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@adeniranprecious002"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="Medium"/></a>&nbsp;&nbsp;
   <a href="https://github.com/adeniranprecious002-ux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://linktr.ee/adeniranprecious002"><img src="https://cdn.simpleicons.org/linktree/FF6B00" width="35" height="35" alt="Linktree"/></a>
+  <a href="https://linktr.ee/adeniranprecious002"><img src="https://img.shields.io/badge/-FF6B00?style=for-the-badge&logo=linktree&logoColor=white" height="35" alt="Linktree"/></a>
 </p>
 
 I build systems that sit at the intersection of hardware and intelligence — from microcontroller firmware that reads the physical world, to AI agents that automate real business workflows. Heading into the **MSECE program at Carnegie Mellon University Africa**, with active work across both domains.
@@ -39,18 +39,18 @@ Right now I'm deep in building a **RAG-based AI Customer Support Agent** — n8n
 **AI & Automation**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n"/>
-<img src="https://cdn.simpleicons.org/openai/050A18" width="40" height="40" alt="OpenAI"/>
-<img src="https://cdn.simpleicons.org/pinecone/050A18" width="40" height="40" alt="Pinecone"/>
-<img src="https://cdn.simpleicons.org/zapier/FF4A00" width="40" height="40" alt="Zapier"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Pinecone-1C1C1C?style=for-the-badge" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
 </p>
 
 **Other**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google APIs"/>
-<img src="https://cdn.simpleicons.org/slack/4A154B" width="40" height="40" alt="Slack"/>
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </p>
 
 ---
