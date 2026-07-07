@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Precious Adeniran Adebayo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,100:FF6B00&height=180&section=header&text=Precious%20Adeniran%20Adebayo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20AI%20Automation%20Expert&descAlignY=58&descSize=18"/>
+</p>
 
-**Embedded Systems Engineer | AI Automation Expert | Electrical & Electronics Engineer**
+<p align="center">
+  <a href="https://linkedin.com/in/precious-adeniran-842b58294"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@adeniranprecious002"><img src="https://cdn.simpleicons.org/medium/050A18" width="35" height="35" alt="Medium"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/adeniranprecious002-ux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://linktr.ee/adeniranprecious002"><img src="https://cdn.simpleicons.org/linktree/FF6B00" width="35" height="35" alt="Linktree"/></a>
+</p>
 
 I build systems that sit at the intersection of hardware and intelligence — from microcontroller firmware that reads the physical world, to AI agents that automate real business workflows. Heading into the **MSECE program at Carnegie Mellon University Africa**, with active work across both domains.
 
-📍 Abuja, Nigeria &nbsp;•&nbsp; 🔗 [linktr.ee/adeniranprecious002](https://linktr.ee/adeniranprecious002) &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/precious-adeniran-842b58294) &nbsp;•&nbsp; ✍️ [Medium](https://medium.com/@adeniranprecious002)
+📍 Abuja, Nigeria
 
 ---
 
@@ -20,9 +27,31 @@ Right now I'm deep in building a **RAG-based AI Customer Support Agent** — n8n
 
 ## 🛠️ Tech Stack
 
-**Embedded:** Embedded C, C++, Arduino, ESP32/ESP8266, Raspberry Pi, MATLAB, sensor integration
-**AI & Automation:** Python, n8n, OpenAI API, Pinecone, RAG pipelines, Zapier, Make
-**Other:** React, Google Sheets/Drive APIs, Slack & Gmail integrations, ReportLab
+**Embedded**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
+</p>
+
+**AI & Automation**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n"/>
+<img src="https://cdn.simpleicons.org/openai/050A18" width="40" height="40" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/pinecone/050A18" width="40" height="40" alt="Pinecone"/>
+<img src="https://cdn.simpleicons.org/zapier/FF4A00" width="40" height="40" alt="Zapier"/>
+</p>
+
+**Other**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google APIs"/>
+<img src="https://cdn.simpleicons.org/slack/4A154B" width="40" height="40" alt="Slack"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
+</p>
 
 ---
 
@@ -58,10 +87,19 @@ Right now I'm deep in building a **RAG-based AI Customer Support Agent** — n8n
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adeniranprecious002-ux&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=333"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeniranprecious002-ux&layout=compact&theme=transparent&hide_border=true&title_color=FF6B00&text_color=333"/>
+</p>
+
 ## 🤝 Open To
 
 - Embedded systems and AI automation roles or internships
 - RAG / AI agent consulting projects
 - IoT & robotics collaborations
 
-*Building intelligent systems that connect hardware, software, and impact.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:050A18&height=100&section=footer"/>
+</p>
