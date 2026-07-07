@@ -1,126 +1,67 @@
-# 👋 Hi, I'm Adeniran Precious Adebayo
+# 👋 Hi, I'm Precious Adeniran Adebayo
 
-🚀 **Embedded Systems Engineer | AI Automation Specialist | IoT & Robotics Enthusiast**
+**Embedded Systems Engineer | AI Automation Expert | Electrical & Electronics Engineer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername\&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+I build systems that sit at the intersection of hardware and intelligence — from microcontroller firmware that reads the physical world, to AI agents that automate real business workflows. Heading into the **MSECE program at Carnegie Mellon University Africa**, with active work across both domains.
+
+📍 Abuja, Nigeria &nbsp;•&nbsp; 🔗 [linktr.ee/adeniranprecious002](https://linktr.ee/adeniranprecious002) &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/precious-adeniran-842b58294) &nbsp;•&nbsp; ✍️ [Medium](https://medium.com/@adeniranprecious002)
 
 ---
 
-## 🧠 About Me
+## 🧠 What I Work On
 
-I build **intelligent systems that connect hardware, software, and AI**.
+**⚙️ Embedded Systems** — microcontroller-based hardware for real-world sensing and control: traffic systems, irrigation, water control, LED matrix displays, and speed measurement for road safety.
 
-My focus is on developing:
+**🤖 AI Automation** — n8n-driven workflows and AI agents that replace manual business processes: lead generation pipelines, resume screening, email management, and RAG-based support agents.
 
-* ⚡ Embedded systems with real-world applications
-* 🤖 AI-powered automation workflows
-* 🌐 IoT systems that collect, process, and act on data
-
-🎯 I’m passionate about solving real problems using **Embedded Systems + AI Automation**.
+Right now I'm deep in building a **RAG-based AI Customer Support Agent** — n8n orchestration, Pinecone for vector retrieval, Google Drive as the knowledge source, and an LLM for response generation. It's my deliberate push from standard automation into true AI agent territory.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-grey?style=for-the-badge)
-
-### ⚙️ Embedded & Hardware
-
-![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge\&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge\&logo=raspberrypi)
-![IoT](https://img.shields.io/badge/IoT-blueviolet?style=for-the-badge)
-
-### 🤖 AI Automation & Low-Code
-
-![Zapier](https://img.shields.io/badge/Zapier-orange?style=for-the-badge\&logo=zapier)
-![Make](https://img.shields.io/badge/Make-blue?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge)
-![Airtable](https://img.shields.io/badge/Airtable-yellow?style=for-the-badge\&logo=airtable)
-![Bubble](https://img.shields.io/badge/Bubble-black?style=for-the-badge)
+**Embedded:** Embedded C, C++, Arduino, ESP32/ESP8266, Raspberry Pi, MATLAB, sensor integration
+**AI & Automation:** Python, n8n, OpenAI API, Pinecone, RAG pipelines, Zapier, Make
+**Other:** React, Google Sheets/Drive APIs, Slack & Gmail integrations, ReportLab
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Resume Screener (HireIQ)
+### AI Automation
+| Project | Description |
+|---|---|
+| [HireIQ](https://github.com/adeniranprecious002-ux/hireiq-smart-candidate-screening) | AI-powered resume screening — LLMs rank candidates against job requirements to cut manual recruitment effort |
+| [GrowthPath AI Lead System](https://github.com/adeniranprecious002-ux) | Automated lead generation and qualification workflow |
+| [Nexanet Africa](https://github.com/adeniranprecious002-ux) | Real estate lead-gen platform: React frontend, n8n automation, Google Sheets lead logging, branded PDF investment brochures, and a full inspection-booking workflow with Calendar + Gmail + Slack notifications |
+| Email Management Workflow | Automated email triage and routing built in n8n |
 
-🔗 https://github.com/adeniranprecious002-ux/hireiq-smart-candidate-screening
+### Embedded Systems
+| Project | Description |
+|---|---|
+| [Speed Measurement System for Road Safety](https://github.com/adeniranprecious002-ux/SPEED_MEASUREMENT_SYSTEM_FOR_ROAD_SAFETY_PERSONNEL) | Arduino + ultrasonic sensors for real-time vehicle speed detection with LCD display and audio alerts — B.Eng Final Year Project, 2024 |
+| [Density & Sound-Based Traffic Light](https://github.com/adeniranprecious002-ux/Density-and-Sound-Based-Traffic-light) | Smart traffic control using sound sensors and density measurement, with microcontroller logic to automate flow |
+| [ESP8266 LED Matrix Web Scroller](https://github.com/adeniranprecious002-ux/ESP8266-LED-Matrix-Web-Scroller) | Wi-Fi controlled digital display board with real-time message updates via web interface |
+| Touchless Water Control | Sensor-driven touchless water dispensing system |
+| Automatic Irrigation System | Sensor-based automated irrigation control |
+| Automatic Fan Controller | Temperature-driven fan automation |
 
-* Built an AI-powered system that analyzes and ranks job candidates automatically
-* Uses LLMs to evaluate resumes based on job requirements
-* Reduces manual recruitment effort and improves decision-making
-
-👉 **Tech:** Python, OpenAI API, Automation Workflows
-
----
-
-### 🔹 Speed Measurement System for Road Safety
-
-🔗 https://github.com/adeniranprecious002-ux/SPEED_MEASUREMENT_SYSTEM_FOR_ROAD_SAFETY_PERSONNEL
-
-* Designed an embedded system to measure vehicle speed for road safety enforcement
-* Integrates sensors and microcontrollers for real-time data processing
-* Can be used by traffic personnel for monitoring and control
-
-👉 **Tech:** Embedded C, Microcontrollers, Sensors
-
----
-
-### 🔹 Python Embedded Data Logger
-
-🔗 https://github.com/adeniranprecious002-ux/python_embedded_data_logger
-
-* Developed a system to log and store sensor data for analysis
-* Enables real-time data acquisition from embedded devices
-* Useful for IoT monitoring and system diagnostics
-
-👉 **Tech:** Python, Embedded Systems, Data Logging
-
----
-
-## 💡 What I Can Do
-
-### 🔧 For Engineering
-
-* Embedded systems design & firmware development
-* Sensor integration & real-time systems
-* IoT system architecture
-
-### 🤖 For Businesses
-
-* AI workflow automation
-* Process optimization using low-code tools
-* API integrations & system connections
+**📂 Full portfolios:** [AI Automation Projects](https://github.com/adeniranprecious002-ux) &nbsp;•&nbsp; [Embedded Systems Projects](https://github.com/adeniranprecious002-ux)
 
 ---
 
 ## 🌱 Currently Learning / Building
 
-* Embedded AI (Edge AI systems)
-* Advanced IoT architectures
-* Scalable AI automation systems
+- RAG-based AI agent architecture (Pinecone + n8n + LLMs)
+- Edge AI for embedded systems
+- Advanced IoT system architectures
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Open To
 
-👉 **All my links in one place:**
-🔗 https://linktr.ee/adeniranprecious002
+- Embedded systems and AI automation roles or internships
+- RAG / AI agent consulting projects
+- IoT & robotics collaborations
 
----
-
-## 🤝 Let’s Collaborate
-
-⭐ I’m open to:
-
-* Internships & entry-level roles in Embedded Systems
-* AI Automation projects
-* IoT & Robotics collaborations
-
-🚀 *Let’s build intelligent systems that make an impact.*
+*Building intelligent systems that connect hardware, software, and impact.*
