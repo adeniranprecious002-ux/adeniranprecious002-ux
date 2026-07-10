@@ -158,8 +158,8 @@ AI & Automation
 # GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adeniranprecious002-ux&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B00&icon_color=FF6B00"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeniranprecious002-ux&layout=compact&theme=transparent&hide_border=true&title_color=FF6B00"/>
+  <img height="170" src="https://ghstats.dev/api/card?username=adeniranprecious002-ux&theme=github_dark" />
+  <img height="170" src="https://ghstats.dev/api/languages?username=adeniranprecious002-ux&theme=github_dark" />
 </p>
 
 ---
